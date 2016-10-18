@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ejercicio 7</string>
+    <string name="aceptar">Ok</string>
+    <string-array name="opciones">
+        <item>Suma</item>
+        <item>Resta</item>
+        <item>Multiplicacion</item>
+        <item>Division</item>
+    </string-array>
+</resources>
